@@ -48,6 +48,7 @@ class TitlePreviewViewController: UIViewController {
         super.viewDidLoad()
         
         view.backgroundColor = .systemBackground
+        navigationController?.navigationBar.tintColor = .white
         view.addSubview(webView)
         view.addSubview(titleLabel)
         view.addSubview(overviewLabel)
