@@ -26,9 +26,9 @@ class DownloadsViewController: UIViewController {
         downloadedTable.delegate = self
         downloadedTable.dataSource = self
         fetchLocalStorageForDownload()
-//        NotificationCenter.default.addObserver(forName: Notification.Name("downloaded"), object: nil, queue: nil) {_ in
-//            self.fetchLocalStorageForDownload()
-//        }
+        NotificationCenter.default.addObserver(forName: NSNotification.Name("Downloaded"), object: nil, queue: nil) { _ in
+            self.fetchLocalStorageForDownload()
+        }
     }
     
     private func fetchLocalStorageForDownload(){
