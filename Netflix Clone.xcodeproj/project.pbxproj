@@ -11,8 +11,9 @@
 		3D07E413288EB70D00445429 /* Title.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D07E412288EB70D00445429 /* Title.swift */; };
 		3D07E415288ECCEF00445429 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D07E414288ECCEF00445429 /* Extensions.swift */; };
 		3D07E419288EF34200445429 /* TitleCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D07E418288EF34200445429 /* TitleCollectionViewCell.swift */; };
-		3D07E41C288EF75700445429 /* SDWebImage in Frameworks */ = {isa = PBXBuildFile; productRef = 3D07E41B288EF75700445429 /* SDWebImage */; };
-		3D07E41E288EF75700445429 /* SDWebImageMapKit in Frameworks */ = {isa = PBXBuildFile; productRef = 3D07E41D288EF75700445429 /* SDWebImageMapKit */; };
+		3D2439DF28A90A8E00784315 /* SDWebImage in Frameworks */ = {isa = PBXBuildFile; productRef = 3D2439DE28A90A8E00784315 /* SDWebImage */; };
+		3D2439E128A90A8E00784315 /* SDWebImageMapKit in Frameworks */ = {isa = PBXBuildFile; productRef = 3D2439E028A90A8E00784315 /* SDWebImageMapKit */; };
+		3D2439E328A90C6900784315 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 3D2439E228A90C6900784315 /* README.md */; };
 		3D2A1248288FC43300F878C5 /* TitleTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D2A1247288FC43300F878C5 /* TitleTableViewCell.swift */; };
 		3D2A124A288FCB3E00F878C5 /* TitleViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D2A1249288FCB3E00F878C5 /* TitleViewModel.swift */; };
 		3D2A124C28900F2900F878C5 /* SearchResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D2A124B28900F2900F878C5 /* SearchResultsViewController.swift */; };
@@ -39,6 +40,7 @@
 		3D07E412288EB70D00445429 /* Title.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Title.swift; sourceTree = "<group>"; };
 		3D07E414288ECCEF00445429 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		3D07E418288EF34200445429 /* TitleCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleCollectionViewCell.swift; sourceTree = "<group>"; };
+		3D2439E228A90C6900784315 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = "Netflix Clone/README.md"; sourceTree = "<group>"; };
 		3D2A1247288FC43300F878C5 /* TitleTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleTableViewCell.swift; sourceTree = "<group>"; };
 		3D2A1249288FCB3E00F878C5 /* TitleViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleViewModel.swift; sourceTree = "<group>"; };
 		3D2A124B28900F2900F878C5 /* SearchResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultsViewController.swift; sourceTree = "<group>"; };
@@ -67,8 +69,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3D07E41E288EF75700445429 /* SDWebImageMapKit in Frameworks */,
-				3D07E41C288EF75700445429 /* SDWebImage in Frameworks */,
+				3D2439E128A90A8E00784315 /* SDWebImageMapKit in Frameworks */,
+				3D2439DF28A90A8E00784315 /* SDWebImage in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -98,6 +100,7 @@
 		3DFF4CD42887D2B400D2F90D = {
 			isa = PBXGroup;
 			children = (
+				3D2439E228A90C6900784315 /* README.md */,
 				3DFF4CDF2887D2B400D2F90D /* Netflix Clone */,
 				3DFF4CDE2887D2B400D2F90D /* Products */,
 			);
@@ -203,8 +206,8 @@
 			);
 			name = "Netflix Clone";
 			packageProductDependencies = (
-				3D07E41B288EF75700445429 /* SDWebImage */,
-				3D07E41D288EF75700445429 /* SDWebImageMapKit */,
+				3D2439DE28A90A8E00784315 /* SDWebImage */,
+				3D2439E028A90A8E00784315 /* SDWebImageMapKit */,
 			);
 			productName = "Netflix Clone";
 			productReference = 3DFF4CDD2887D2B400D2F90D /* Netflix Clone.app */;
@@ -235,7 +238,7 @@
 			);
 			mainGroup = 3DFF4CD42887D2B400D2F90D;
 			packageReferences = (
-				3D07E41A288EF75700445429 /* XCRemoteSwiftPackageReference "SDWebImage" */,
+				3D2439DD28A90A8E00784315 /* XCRemoteSwiftPackageReference "SDWebImage" */,
 			);
 			productRefGroup = 3DFF4CDE2887D2B400D2F90D /* Products */;
 			projectDirPath = "";
@@ -251,6 +254,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D2439E328A90C6900784315 /* README.md in Resources */,
 				3DFF4CED2887D2B600D2F90D /* LaunchScreen.storyboard in Resources */,
 				3DFF4CEA2887D2B600D2F90D /* Assets.xcassets in Resources */,
 			);
@@ -493,25 +497,25 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		3D07E41A288EF75700445429 /* XCRemoteSwiftPackageReference "SDWebImage" */ = {
+		3D2439DD28A90A8E00784315 /* XCRemoteSwiftPackageReference "SDWebImage" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/SDWebImage/SDWebImage.git";
 			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 5.0.0;
+				branch = master;
+				kind = branch;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		3D07E41B288EF75700445429 /* SDWebImage */ = {
+		3D2439DE28A90A8E00784315 /* SDWebImage */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 3D07E41A288EF75700445429 /* XCRemoteSwiftPackageReference "SDWebImage" */;
+			package = 3D2439DD28A90A8E00784315 /* XCRemoteSwiftPackageReference "SDWebImage" */;
 			productName = SDWebImage;
 		};
-		3D07E41D288EF75700445429 /* SDWebImageMapKit */ = {
+		3D2439E028A90A8E00784315 /* SDWebImageMapKit */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 3D07E41A288EF75700445429 /* XCRemoteSwiftPackageReference "SDWebImage" */;
+			package = 3D2439DD28A90A8E00784315 /* XCRemoteSwiftPackageReference "SDWebImage" */;
 			productName = SDWebImageMapKit;
 		};
 /* End XCSwiftPackageProductDependency section */
