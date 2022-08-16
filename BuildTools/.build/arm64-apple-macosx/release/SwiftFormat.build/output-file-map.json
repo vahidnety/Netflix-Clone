@@ -1,0 +1,82 @@
+{
+  "": {
+    "dependencies": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/SwiftFormat.d",
+    "object": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/SwiftFormat.o",
+    "swift-dependencies": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/master.swiftdeps"
+  },
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/Arguments.swift": {
+    "object": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/Arguments.swift.o",
+    "swiftmodule": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/Arguments~partial.swiftmodule",
+    "swift-dependencies": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/Arguments.swiftdeps"
+  },
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/CommandLine.swift": {
+    "object": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/CommandLine.swift.o",
+    "swiftmodule": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/CommandLine~partial.swiftmodule",
+    "swift-dependencies": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/CommandLine.swiftdeps"
+  },
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/EnumAssociable.swift": {
+    "object": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/EnumAssociable.swift.o",
+    "swiftmodule": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/EnumAssociable~partial.swiftmodule",
+    "swift-dependencies": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/EnumAssociable.swiftdeps"
+  },
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/Examples.swift": {
+    "object": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/Examples.swift.o",
+    "swiftmodule": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/Examples~partial.swiftmodule",
+    "swift-dependencies": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/Examples.swiftdeps"
+  },
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/Formatter.swift": {
+    "object": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/Formatter.swift.o",
+    "swiftmodule": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/Formatter~partial.swiftmodule",
+    "swift-dependencies": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/Formatter.swiftdeps"
+  },
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/FormattingHelpers.swift": {
+    "object": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/FormattingHelpers.swift.o",
+    "swiftmodule": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/FormattingHelpers~partial.swiftmodule",
+    "swift-dependencies": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/FormattingHelpers.swiftdeps"
+  },
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/Globs.swift": {
+    "object": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/Globs.swift.o",
+    "swiftmodule": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/Globs~partial.swiftmodule",
+    "swift-dependencies": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/Globs.swiftdeps"
+  },
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/Inference.swift": {
+    "object": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/Inference.swift.o",
+    "swiftmodule": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/Inference~partial.swiftmodule",
+    "swift-dependencies": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/Inference.swiftdeps"
+  },
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/JSONReporter.swift": {
+    "object": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/JSONReporter.swift.o",
+    "swiftmodule": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/JSONReporter~partial.swiftmodule",
+    "swift-dependencies": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/JSONReporter.swiftdeps"
+  },
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/OptionDescriptor.swift": {
+    "object": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/OptionDescriptor.swift.o",
+    "swiftmodule": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/OptionDescriptor~partial.swiftmodule",
+    "swift-dependencies": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/OptionDescriptor.swiftdeps"
+  },
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/Options.swift": {
+    "object": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/Options.swift.o",
+    "swiftmodule": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/Options~partial.swiftmodule",
+    "swift-dependencies": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/Options.swiftdeps"
+  },
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/ParsingHelpers.swift": {
+    "object": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/ParsingHelpers.swift.o",
+    "swiftmodule": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/ParsingHelpers~partial.swiftmodule",
+    "swift-dependencies": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/ParsingHelpers.swiftdeps"
+  },
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/Rules.swift": {
+    "object": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/Rules.swift.o",
+    "swiftmodule": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/Rules~partial.swiftmodule",
+    "swift-dependencies": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/Rules.swiftdeps"
+  },
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/SwiftFormat.swift": {
+    "object": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/SwiftFormat.swift.o",
+    "swiftmodule": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/SwiftFormat~partial.swiftmodule",
+    "swift-dependencies": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/SwiftFormat.swiftdeps"
+  },
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/Tokenizer.swift": {
+    "object": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/Tokenizer.swift.o",
+    "swiftmodule": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/Tokenizer~partial.swiftmodule",
+    "swift-dependencies": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/Tokenizer.swiftdeps"
+  }
+}

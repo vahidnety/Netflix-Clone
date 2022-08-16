@@ -1,0 +1,4 @@
+module SwiftFormat {
+    header "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/SwiftFormat.build/SwiftFormat-Swift.h"
+    requires objc
+}

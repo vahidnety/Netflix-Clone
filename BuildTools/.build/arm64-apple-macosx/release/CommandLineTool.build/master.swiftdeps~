@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "ebde5c1629be89f605c8c5a1327e88f75fb304a18a6799ed793c2d37cfc993ec"
+build_start_time: [1660652039, 645192146]
+build_end_time: [1660652039, 999003887]
+inputs:
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/CommandLineTool/main.swift": [1660652006, 136106491]

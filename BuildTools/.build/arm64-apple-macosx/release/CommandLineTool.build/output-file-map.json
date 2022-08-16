@@ -1,0 +1,12 @@
+{
+  "": {
+    "dependencies": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/CommandLineTool.build/CommandLineTool.d",
+    "object": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/CommandLineTool.build/CommandLineTool.o",
+    "swift-dependencies": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/CommandLineTool.build/master.swiftdeps"
+  },
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/CommandLineTool/main.swift": {
+    "object": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/CommandLineTool.build/main.swift.o",
+    "swiftmodule": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/CommandLineTool.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/CommandLineTool.build/main.swiftdeps"
+  }
+}

@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "fcc8c77a83aa25959c46abf22b6105ed89fa3b9fef8b0fde8e1468c02e57e378"
+build_start_time: [1660652008, 849735975]
+build_end_time: [1660652039, 600275039]
+inputs:
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/Arguments.swift": [1660652006, 197727680]
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/CommandLine.swift": [1660652006, 198035717]
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/EnumAssociable.swift": [1660652006, 198148012]
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/Examples.swift": [1660652006, 198319435]
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/Formatter.swift": [1660652006, 198457241]
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/FormattingHelpers.swift": [1660652006, 198750019]
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/Globs.swift": [1660652006, 198858261]
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/Inference.swift": [1660652006, 199735641]
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/JSONReporter.swift": [1660652006, 200064659]
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/OptionDescriptor.swift": [1660652006, 200441598]
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/Options.swift": [1660652006, 200597047]
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/ParsingHelpers.swift": [1660652006, 200878143]
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/Rules.swift": [1660652006, 201133489]
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/SwiftFormat.swift": [1660652006, 201344966]
+  "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/checkouts/SwiftFormat/Sources/Tokenizer.swift": [1660652006, 201596736]

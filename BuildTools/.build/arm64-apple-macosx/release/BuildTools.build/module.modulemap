@@ -1,0 +1,4 @@
+module BuildTools {
+    header "/Users/vahid/Documents/Projects/Netflix Clone/BuildTools/.build/arm64-apple-macosx/release/BuildTools.build/BuildTools-Swift.h"
+    requires objc
+}
